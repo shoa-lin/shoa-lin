@@ -1,7 +1,7 @@
 <p align="center"><img src="./banner.svg" width="100%" alt="Shoa Lin · 松海"></p>
 
-前知识图谱研究员，曾任企业架构师，长期从事企业数字化转型。现专注 AI Agent 系统，研究方向为多 Agent 的组织与协作。<br>
-Former knowledge-graph researcher and enterprise architect with a background in enterprise digital transformation. Now building AI agent systems, with a focus on multi-agent organization and collaboration.
+知识图谱研究员，曾任企业架构师，长期从事企业数字化转型。现专注 AI Agent 系统，研究方向为多 Agent 的组织与协作。<br>
+Knowledge-graph researcher and former enterprise architect with a background in enterprise digital transformation. Now building AI agent systems, with a focus on multi-agent organization and collaboration.
 
 ### What I work on · 关注方向
 
