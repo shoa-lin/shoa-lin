@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <rect width="1000" height="220" fill="#ffffff"/>
+  <line x1="60" y1="170" x2="940" y2="170" stroke="#e5e5e5"/>
+  <text x="60" y="100" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#111">Shoa Lin <tspan fill="#888" font-size="40">· 松海</tspan></text>
+  <text x="60" y="145" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="20" fill="#555">AI agent systems · multi-agent collaboration · knowledge graphs</text>
+  <text x="940" y="200" text-anchor="end" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#999">bydziwen.top</text>
+</svg>
